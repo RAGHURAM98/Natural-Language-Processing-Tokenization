@@ -1,0 +1,8 @@
+Nouns :  ['minister', 'situation', 'house', 'power']
+Verbs  : ['found', 'voted']
+Stopwords : ['the', 'herself', 'in', 'an', 'when', 'the', 'her', 'to', 'to', 'be', 'in']
+Adjectives : ['happy', 'continue']
+Adverbs : ['unprecedentedly']
+synonyms of adjective : happy  [u'cheerful', u'contented', u'overjoyed', u'ecstatic', u'elated']
+synonyms of adjective : continue  [u'advance', u'go on', u'extend', u'linger', u'pursue']
+antonyms of adjective : happy  [u'melancholy', u'upset', u'disappointed', u'sorrowful', u'unfriendly']
